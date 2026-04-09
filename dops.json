@@ -1,19 +1,19 @@
 {
-    "version": "0.12.0",
+    "version": "0.13.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rundops/dops/releases/download/v0.12.0/dops_0.12.0_windows_amd64.zip",
+            "url": "https://github.com/rundops/dops/releases/download/v0.13.0/dops_0.13.0_windows_amd64.zip",
             "bin": [
                 "dops.exe"
             ],
-            "hash": "02632f5909c178011287db876d64d78d6e8a0eca734b366242db5cf46f42b147"
+            "hash": "ac5a02d910eeb410b6afc321392b395a8aecc5ded7d3b8794b17d7c1e9ca8df5"
         },
         "arm64": {
-            "url": "https://github.com/rundops/dops/releases/download/v0.12.0/dops_0.12.0_windows_arm64.zip",
+            "url": "https://github.com/rundops/dops/releases/download/v0.13.0/dops_0.13.0_windows_arm64.zip",
             "bin": [
                 "dops.exe"
             ],
-            "hash": "f582ead67146a484fe9fa636b7d8df301dcf2e27a1f169dfe0fb8f7b7f0ef80f"
+            "hash": "6c18bcf59266d19641b9afb240e6f284e1a52c3b2e5e2f1ce683ab56589f31dc"
         }
     },
     "homepage": "https://github.com/rundops/dops",
